@@ -1,0 +1,83 @@
+diff --git a/.classpath b/.classpath
+new file mode 100644
+index 0000000..fb50116
+--- /dev/null
++++ b/.classpath
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<classpath>
++	<classpathentry kind="src" path="src"/>
++	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
++	<classpathentry kind="output" path="bin"/>
++</classpath>
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..ae3c172
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++/bin/
+diff --git a/.project b/.project
+new file mode 100644
+index 0000000..2493ee6
+--- /dev/null
++++ b/.project
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<projectDescription>
++	<name>primeiro programa java</name>
++	<comment></comment>
++	<projects>
++	</projects>
++	<buildSpec>
++		<buildCommand>
++			<name>org.eclipse.jdt.core.javabuilder</name>
++			<arguments>
++			</arguments>
++		</buildCommand>
++	</buildSpec>
++	<natures>
++		<nature>org.eclipse.jdt.core.javanature</nature>
++	</natures>
++</projectDescription>
+diff --git a/src/com/dio/PrimeiroPrograma.java b/src/com/dio/PrimeiroPrograma.java
+new file mode 100644
+index 0000000..fb8d609
+--- /dev/null
++++ b/src/com/dio/PrimeiroPrograma.java
+@@ -0,0 +1,13 @@
++package com.dio;
++
++public class PrimeiroPrograma {
++
++	public static void main(String[] args) {
++		int nascimento = 1997;
++		int anoAtual = 2022;
++		int idade = anoAtual - nascimento;
++		System.out.println("Diogo � o cara! E esse ano ele faz " + idade + " anos!");
++		
++	}
++
++}
+diff --git a/src/com/dio/pets/Gato.java b/src/com/dio/pets/Gato.java
+new file mode 100644
+index 0000000..52dba43
+--- /dev/null
++++ b/src/com/dio/pets/Gato.java
+@@ -0,0 +1,16 @@
++package com.dio.pets;
++
++public class Gato {
++	
++	
++	public static void main(String[] args) {
++	
++		String cor = "preto";
++		String nome = "Skitz";
++		Integer idade = 2;
++		
++		System.out.println("O gato " + cor + " tem " + idade + " anos de idade, e se chama " + nome);
++;
++	}	
++	
++}
