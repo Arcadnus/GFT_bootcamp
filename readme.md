@@ -5,7 +5,6 @@
 ## Status✔
 Atualmente:
 * o Bootcamp está aberto.🏃‍♂️
-* Exercício prático #7 da lista em construção.🛠
 
 ## Organização📚
 
@@ -36,4 +35,4 @@ gft_start_#3_java | dominando_ides_java | intellij  | [Gato](https://github.com/
 gft_start_#3_java | dominando_ides_java | intellij  | [calculadora](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/dominando_ides_java/intellij/src/br/com/dio/calculadora)
 gft_start_#3_java | entendendo_metodos_java | -- | [calculadora](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/entendendo_metodos_java/src/br/com/dio/calculadora)
 gft_start_#3_java | entendendo_metodos_java | -- | [mensagem](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/entendendo_metodos_java/src/br/com/dio/mensagem)
-gft_start_#3_java | entendendo_metodos_java | -- | [emprestimo](#)
+gft_start_#3_java | entendendo_metodos_java | -- | [emprestimo](https://github.com/Arcadnus/GFT_bootcamp/blob/main/gft_start_%233_java/entendendo_metodos_java/src/br/com/dio/emprestimo.java)
