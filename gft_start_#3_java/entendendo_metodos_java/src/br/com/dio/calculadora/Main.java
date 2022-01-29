@@ -1,4 +1,4 @@
-package com.company;
+package br.com.dio.calculadora;
 
 import java.util.Scanner;
 
@@ -36,14 +36,14 @@ public class Main {
         }
     }*/
 
-    //método para calcular: Checa qual operador foi inserido pelo usuário(com/company/Main.java:21)
+    //método para calcular: Checa qual operador foi inserido pelo usuário(com/company/Mensagem.java:21)
     private static double calcular(int a, int b, String operador){
         return switch (operador) {
             case "*" -> (a * b);
             case "/" -> (a / b);
             case "+" -> (a + b);
             case "-" -> (a - b);
-            default -> 9;
+            default -> 0;
         };
     }
 
