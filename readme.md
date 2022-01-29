@@ -35,4 +35,5 @@ gft_start_#3_java | dominando_ides_java | intellij  | [primeiro_programa(gato ta
 gft_start_#3_java | dominando_ides_java | intellij  | [Gato](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/dominando_ides_java/intellij/src/br/com/dio/model)
 gft_start_#3_java | dominando_ides_java | intellij  | [calculadora](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/dominando_ides_java/intellij/src/br/com/dio/calculadora)
 gft_start_#3_java | entendendo_metodos_java | -- | [calculadora](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/entendendo_metodos_java/src/br/com/dio/calculadora)
-gft_start_#3_java | entendendo_metodos_java | -- | [mensagem(Em construção)](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/entendendo_metodos_java/src/br/com/dio/mensagem)
+gft_start_#3_java | entendendo_metodos_java | -- | [mensagem](https://github.com/Arcadnus/GFT_bootcamp/tree/main/gft_start_%233_java/entendendo_metodos_java/src/br/com/dio/mensagem)
+gft_start_#3_java | entendendo_metodos_java | -- | [emprestimo](#)

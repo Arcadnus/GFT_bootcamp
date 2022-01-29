@@ -1,10 +1,10 @@
-package br.com.dio.calculadora;
+package br.com.dio;
 
 import java.util.Scanner;
 
-public class Main {
+public class calculadora {
 
-    public static void main(String [] args) {
+    public static void obter() {
 
         Scanner scan = new Scanner(System.in);
         int a, b;
