@@ -4,8 +4,8 @@
 
 ## Status✔
 Atualmente:
-. o Bootcamp está aberto.🏃‍♂️
-. Exercício prático #7 da lista em construção.🛠
+* o Bootcamp está aberto.🏃‍♂️
+* Exercício prático #7 da lista em construção.🛠
 
 ## Organização📚
 
