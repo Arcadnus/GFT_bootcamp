@@ -2,14 +2,14 @@
 
 ##### Uma compilação de projetos
 
-## Status
+## Status✔
 Atualmente:
-. o Bootcamp está aberto.
-. Exercício prático #7 da lista em construção.
+. o Bootcamp está aberto.🏃‍♂️
+. Exercício prático #7 da lista em construção.🛠
 
-## Organização
+## Organização📚
 
-O repositório será organizado em pastas, com cada projeto sendo guardado dentro de sua respectiva aula, e cada aula dentro do seu respectivo curso/bootcamp.
+O repositório será organizado em pastas📁, com cada projeto sendo guardado dentro de sua respectiva aula, e cada aula dentro do seu respectivo curso/bootcamp.
 
 `curso>aula>projeto`
 
@@ -21,7 +21,7 @@ O repositório será organizado em pastas, com cada projeto sendo guardado dentr
 
 
 
-## Lista
+## Lista📋
 
 
 
